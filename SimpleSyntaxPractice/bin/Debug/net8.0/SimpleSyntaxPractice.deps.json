@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SimpleSyntaxPractice/1.0.0": {
+        "dependencies": {
+          "SimpleSyntaxPracticeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SimpleSyntaxPractice.dll": {}
+        }
+      },
+      "SimpleSyntaxPracticeLibrary/1.0.0": {
+        "runtime": {
+          "SimpleSyntaxPracticeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleSyntaxPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleSyntaxPracticeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
